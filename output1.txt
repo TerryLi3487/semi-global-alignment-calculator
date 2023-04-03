@@ -1,0 +1,5 @@
+>seq7
+AACG
+2
+AACCCCTA--G
+-------AACG
