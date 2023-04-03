@@ -1,1 +1,0 @@
-# semi-global-alignment-calculator
